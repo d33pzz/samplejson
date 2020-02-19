@@ -1,0 +1,98 @@
+{"mustselltodaysample":[
+{
+ "postid": "1001", 
+ "posttitle": "Selling Oneplus 6T", 
+ "description": "",
+ "images": [{
+"imageid":"001",
+"imageurl":"https://static.toiimg.com/thumb/msid-66460979,width-640,resizemode-4/66460979.jpg"
+},{
+"imageid":"002",
+"imageurl":"https://5.imimg.com/data5/XT/UJ/TH/SELLER-53726935/oneplus-6t-500x500.jpg"}
+ 
+],
+"price":"22000",
+"userid": "",
+"category":"Phone",
+"categoryBrandName":"OnePlus",
+"categoryBrandProductName":"6T"
+},
+{
+ "postid": "1002", 
+ "posttitle": "Selling Yamaha FZ 16 2012 model", 
+ "description": "",
+ "images": [{
+"imageid":"003",
+"imageurl":"https://uploads.carandbike.com/used-bikes/19175/large/yamaha-fz-rear-view.jpg?v=1542654631"
+},{
+"imageid":"004",
+"imageurl":"https://cdn1.droom.in/photos/listing/2019-11-01/f457c9f4702e8019b27a5d7c25944758_extra_large.jpg"}
+ 
+],
+"price":"35000",
+"userid": "",
+"category":"Motorbike",
+"categoryBrandName":"YAMAHA",
+"categoryBrandProductName":"FZ16"
+},
+{
+ "postid": "1003", 
+ "posttitle": "Selling Macbook Pro", 
+ "description": "",
+ "images": [{
+"imageid":"005",
+"imageurl":"https://cdn.pocket-lint.com/r/s/1200x/assets/images/149132-laptops-review-macbook-pro-13-inch-2019-review-business-as-usual-image1-mjmo9napgu.jpg"
+},{
+"imageid":"006",
+"imageurl":"https://cnet3.cbsistatic.com/img/yjrw7VgWV7a95AvK8Ym0Np4bFXY=/1200x675/2017/06/27/13484418-bfd9-41e2-8f2d-9b4afb072da8/apple-macbook-pro-15-inch-2017-14.jpg"}
+ 
+],
+"price":"58000",
+"userid": "",
+"category":"Laptops",
+"categoryBrandName":"APPLE",
+"categoryBrandProductName":"Macbook pro"
+},
+{
+ "postid": "1004", 
+ "posttitle": "Selling Cannon 5d Mark", 
+ "description": "",
+ "images": [{
+"imageid":"007",
+"imageurl":"https://icdn3.digitaltrends.com/image/digitaltrends/canon-eos-5d-mark-iv-review-8.jpg"
+},{
+"imageid":"008",
+"imageurl":"https://i.ytimg.com/vi/Mdf6aL3atuU/maxresdefault.jpg"}
+ 
+],
+"price":"190111",
+"userid": "",
+"category":"CAMERA",
+"categoryBrandName":"CANNON",
+"categoryBrandProductName":"Cannon 5d Mark"
+},
+{
+ "postid": "1004", 
+ "posttitle": "Selling Jeep Compass Red", 
+ "description": "",
+ "images": [{
+"imageid":"009",
+"imageurl":"https://i.ndtvimg.com/i/2018-02/jeep-compass-trailhawk_827x510_61517639446.jpg"
+},{
+"imageid":"010",
+"imageurl":"https://i.pinimg.com/originals/14/74/5d/14745d257ab3093419b70ee7f82e6f71.jpg"},
+{
+"imageid":"011",
+"imageurl":"https://www.motortrend.com/uploads/sites/5/2018/01/2019-Jeep-Cherokee-Trailhawk-01.jpg"}
+ 
+],
+"price":"190111",
+"userid": "",
+"category":"CARS",
+"categoryBrandName":"JEEP",
+"categoryBrandProductName":"COMPASS"
+}
+
+
+]
+}
